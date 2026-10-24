@@ -140,6 +140,12 @@ I'm always learning, experimenting, and looking for ways to improve my projects.
 
 ---
 
+### Contact
+
+You can contact me by e-mail: alex@ajgamesstudios.com
+
+---
+
 <div align="center">
 
 **Building games, writing code, and turning ideas into reality.**
