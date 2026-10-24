@@ -39,6 +39,7 @@ I enjoy turning ideas into fully functional projects, experimenting with new tec
 **Programming Languages**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
