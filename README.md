@@ -21,6 +21,8 @@ I'm Alex, an independent developer passionate about game development, programmin
 
 My work ranges from Roblox experiences to standalone games, web applications, and software tools.
 
+I have around 8-9 years experience in my field.
+
 I enjoy turning ideas into fully functional projects, experimenting with new technologies, and continuously improving the quality of my work.
 
 - Game development across multiple platforms
